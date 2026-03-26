@@ -7,8 +7,8 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-two-lake-44.vercel.app/api?username=Willev05&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_rank=true" height="160" alt="GitHub Stats"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Willev05&theme=github-dark&hide_border=true" height="160" alt="GitHub Streak"/>
+ 
+  ![Stats](https://github-readme-stats-willev05s-projects.vercel.app/api?username=Willev05&show_icons=true&theme=dark)
 <p/>
 
 ## 🧑‍💻 Most Used Languages
