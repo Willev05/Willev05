@@ -12,7 +12,7 @@
 <p/>
 
 ## 🧑‍💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Willev05&layout=compact&theme=github_dark&langs_count=8" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats-willev05s-projects.vercel.app/api/top-langs/?username=Willev05&layout=compact&theme=github_dark&langs_count=8" height="160" alt="Top Languages"/>
 
 ## 💻 Other Languages I Use
 <p>
